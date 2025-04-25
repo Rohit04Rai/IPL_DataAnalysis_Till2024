@@ -44,7 +44,21 @@ A PDF summary report was generated to showcase analysis and placeholder visuals:
 
 ## 📷 Sample Visuals
 
-*(You can add screenshots of charts or outputs here)*
+### 🔹 Top 10 Run Scorers (2008–2023)
+![Top 10 Run Scorers](images/top_10_run_scorers.png)
+
+### 🔹 Top 10 Wicket Takers (2008–2023)
+![Top 10 Wicket Takers](images/top_10_wicket_takers.png)
+
+### 🔹 Average Run Over the Years
+![Run Rate](images/Average Runs Per Match Over the Years.png)
+
+### 🔹 Total Runs by Each Team
+![Total Runs](images/Total Runs by Each Team.png)
+
+### 🔹 Teams by Number of Wins (2008–2023)
+![Team Wins](images/Top Teams by Number of Wins (2008–2023).png)
+
 
 ---
 
@@ -54,3 +68,19 @@ A PDF summary report was generated to showcase analysis and placeholder visuals:
    ```bash
    git clone https://github.com/yourusername/IPL_DataAnalysis_Till2024.git
    cd IPL_DataAnalysis_Till2024
+
+2. Install required libraries:
+   pip install pandas matplotlib seaborn openpyxl
+   
+3. Launch the notebook:
+   jupyter notebook
+
+4. Open and run IPL_Analysis.ipynb
+
+## 👨‍💻 Author
+
+Rohit Kumar Rai  
+📧 Email: [er.rohitrai87@gmail.com](mailto:er.rohitrai87@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/rohit-kumar-rai-04dec](https://www.linkedin.com/in/rohit-kumar-rai-04dec)  
+🎓 Education: B.Tech in Computer Science Engineering | MBA in Business Analytics
+
