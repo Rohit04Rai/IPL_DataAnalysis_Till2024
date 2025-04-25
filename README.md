@@ -51,13 +51,13 @@ A PDF summary report was generated to showcase analysis and placeholder visuals:
 ![Top 10 Wicket Takers](images/top_10_wicket_takers.png)
 
 ### 🔹 Average Run Over the Years
-![Run Rate](images/Average Runs Per Match Over the Years.png)
+![Run Rate](images/Average_Runs_Per_Match_Over_the_Years.png)
 
 ### 🔹 Total Runs by Each Team
-![Total Runs](images/Total Runs by Each Team.png)
+![Total Runs](images/Total_Runs_by_Each_Team.png)
 
 ### 🔹 Teams by Number of Wins (2008–2023)
-![Team Wins](images/Top Teams by Number of Wins (2008–2023).png)
+![Team Wins](images/Top_Teams_by_Number_of_Wins_(2008–2023).png)
 
 
 ---
