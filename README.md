@@ -6,9 +6,9 @@ This project explores the Indian Premier League (IPL) datasets from 2008 to 2024
 
 ## 📁 Datasets Used
 
-- `IPL.csv` — Ball-by-ball data from 2008 to 2023  
-- `players_performace_2008_2023.csv` — Player-wise performance summary (batting & bowling)  
-- `IPL24_All_Matches_Dataset.xlsx` — IPL 2024 match data (ball-level)
+- [IPL.csv](./IPL.csv) — Ball-by-ball data from 2008 to 2023  
+- [players_performace_2008_2023.csv](./players_performace_2008_2023.csv) — Player-wise performance summary (batting & bowling)  
+- [IPL24_All_Matches_Dataset.xlsx](./IPL24_All_Matches_Dataset.xlsx) — IPL 2024 match data (ball-level)
 
 ---
 
