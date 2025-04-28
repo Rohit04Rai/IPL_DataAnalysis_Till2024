@@ -17,8 +17,8 @@ This project explores the Indian Premier League (IPL) datasets from 2008 to 2024
 - 🏏 Top batsmen & bowlers across seasons  
 - 📈 Scoring trends and run rate analysis  
 - 🎯 Powerplay performance of teams  
-- 🪙 Toss decision vs match results  
-- 🧠 Match win/loss patterns across years  
+- 🧠 Toss decision vs match results  
+- 📊 Match win/loss patterns across years  
 - 🔍 Deep-dive into IPL 2024 season  
 
 ---
